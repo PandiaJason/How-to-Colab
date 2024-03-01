@@ -14,4 +14,4 @@
 ![Screenshot from 2024-03-01 10-35-05](https://github.com/PandiaJason/How-to-Colab/assets/100123063/52ae2656-0155-41cf-ac4e-b0b38da04d40)
 
 6. **Save Your Own Copy and Press Enter and start using colab.**
-
+![Uploading Screenshot from 2024-03-01 10-50-07.png…]()
